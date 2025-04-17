@@ -5,4 +5,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #nvcr.io/nvidia/tritonserver:25.03-trtllm-python-py3
 #malithgeodd/tensorrt-llm:0.18.0
-lmcache/vllm-openai
+# vllm main latest commit
+public.ecr.aws/q9t5s3a7/vllm-ci-postmerge-repo:8cac35ba435906fb7eb07e44fe1a8c26e8744f4e
