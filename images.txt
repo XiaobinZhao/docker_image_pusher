@@ -6,4 +6,4 @@
 #nvcr.io/nvidia/tritonserver:25.03-trtllm-python-py3
 #malithgeodd/tensorrt-llm:0.18.0
 # vllm main latest commit
-m.solift.org:25000/dynamo-v0.1.0.dev.197105eb-vllm
+alogfans/mooncake
