@@ -6,4 +6,4 @@
 #nvcr.io/nvidia/tritonserver:25.03-trtllm-python-py3
 #malithgeodd/tensorrt-llm:0.18.0
 # vllm main latest commit
-alogfans/mooncake
+vllm/vllm-openai:v0.8.5
