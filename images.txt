@@ -8,5 +8,6 @@
 # vllm main latest commit
 # siutin/stable-diffusion-webui-docker:cuda-12.8.1-v1.10.1-2025-03-14
 # lmsysorg/sglang:deepep
-zxb000/sglang-deepep:0514
-#lmsysorg/sglang:dev-deepep
+# zxb000/sglang-deepep:0514
+# lmsysorg/sglang:dev-deepep
+docker pull lmsysorg/sglang:dev
