@@ -10,4 +10,4 @@
 # lmsysorg/sglang:deepep
 # zxb000/sglang-deepep:0514
 # lmsysorg/sglang:dev-deepep
-docker pull lmsysorg/sglang:dev
+lmsysorg/sglang:dev
