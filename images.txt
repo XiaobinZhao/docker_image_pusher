@@ -13,4 +13,5 @@
 # lmsysorg/sglang:dev
 # lmsysorg/sglang:blackwell
 # vllm 0526拉取，0.9的预发布版本
-public.ecr.aws/q9t5s3a7/vllm-ci-postmerge-repo:6071e989df1531b59ef35568f83f7351afb0b51e
+# public.ecr.aws/q9t5s3a7/vllm-ci-postmerge-repo:6071e989df1531b59ef35568f83f7351afb0b51e
+sushiqian/tensorrt-llm:0.20.0rc2
