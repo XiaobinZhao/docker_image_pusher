@@ -22,4 +22,5 @@ lmsysorg/sglang:dev-deepep
 # mzz2017/v2raya:v2.2.6.7
 # zxb000/sglang-deepep:dev-0606-nixl
 # lmsysorg/sglang:dev
-zxb000/sglang-deepep:dev-deepep-0611
+# zxb000/sglang-deepep:dev-deepep-0611
+vllm/vllm-openai:v0.9.1
