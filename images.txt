@@ -20,8 +20,8 @@ lmsysorg/sglang:dev-deepep
 # lmcache/vllm-openai:2025-05-27-v1
 # vllm/vllm-openai:v0.9.0.1
 # mzz2017/v2raya:v2.2.6.7
-# zxb000/sglang-deepep:dev-0606-nixl
+zxb000/sglang-deepep:main-0707-deepep-mooncake
 # lmsysorg/sglang:dev
 zxb000/sglang-deepep:main-0625-deepep-nixl
 # vllm/vllm-openai:v0.9.1
-lmsysorg/sglang:v0.4.7-cu124
+# lmsysorg/sglang:v0.4.7-cu124
