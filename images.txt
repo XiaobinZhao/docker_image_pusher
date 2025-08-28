@@ -18,7 +18,8 @@
 # lmsysorg/sglang:dev-deepep
 # vllm/vllm-openai:v0.10.0
 # zxb000/sglang-deepep:0730-cu126
-zhangp365/comfyui:20250810
+# zhangp365/comfyui:20250810
+lmsysorg/sglang:v0.5.1-cu126
 # lmcache/vllm-openai:2025-05-27-v1
 # vllm/vllm-openai:v0.9.0.1
 # mzz2017/v2raya:v2.2.6.7
