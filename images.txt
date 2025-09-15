@@ -23,7 +23,8 @@
 # hiyouga/llamafactory:0.9.4
 # lmcache/vllm-openai:2025-05-27-v1
 # vllm/vllm-openai:v0.10.1.1
---platform=linux/arm64 lmsysorg/sglang:v0.5.2-cu129-gb200
+# --platform=linux/arm64 lmsysorg/sglang:v0.5.2-cu129-gb200
+lmsysorg/sglang:v0.5.2-cu126
 # mzz2017/v2raya:v2.2.6.7 
 # zxb000/sglang-deepep:main-0707-deepep-mooncake
 # lmsysorg/sglang:dev
