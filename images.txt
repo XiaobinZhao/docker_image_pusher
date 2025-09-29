@@ -2,6 +2,7 @@
 # ollama/ollama:0.12.3
 # yusiwen/llama.cpp:b4735-cuda
 # ghcr.io/ggerganov/llama.cpp:full-cuda
+ghcr.io/ggml-org/llama.cpp:full-cuda-b6617
 nvcr.io/nvidia/pytorch:25.03-py3
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
