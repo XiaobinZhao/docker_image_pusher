@@ -1,7 +1,7 @@
 # nginx
 # ollama/ollama:0.12.3
 # yusiwen/llama.cpp:b4735-cuda
-ghcr.io/ggerganov/llama.cpp:latest-moe
+ghcr.io/ggerganov/llama.cpp:server-cuda
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
