@@ -42,7 +42,8 @@
 # lmcache/vllm-openai:v0.3.8
 # ghcr.io/moirai-internal/model-agent:v0.1.3
 # ghcr.io/moirai-internal/ome-manager:v0.1.3
-gcr.io/distroless/static:nonroot
+# gcr.io/distroless/static:nonroot
+oraclelinux:10-slim
 # aibrix/kuberay-operator:v1.2.1-patch-20250726
 # aibrix/runtime:bda162d814f96b69ec08f6dafe428f1d97cabbf2
 # aibrix/metadata-service:bda162d814f96b69ec08f6dafe428f1d97cabbf2
