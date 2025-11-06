@@ -47,7 +47,8 @@
 # registry.k8s.io/lws/lws:v0.3.0
 # gcr.io/kubebuilder/kube-rbac-proxy:v0.15.0
 # registry.k8s.io/lws/lws:0.7.0
-vllm/vllm-openai:v0.11.0-x86_64
+# vllm/vllm-openai:v0.11.0-x86_64
+lmcache/vllm-openai:v0.3.8
 # aibrix/kuberay-operator:v1.2.1-patch-20250726
 # aibrix/runtime:bda162d814f96b69ec08f6dafe428f1d97cabbf2
 # aibrix/metadata-service:bda162d814f96b69ec08f6dafe428f1d97cabbf2
