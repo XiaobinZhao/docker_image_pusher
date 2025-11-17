@@ -50,7 +50,8 @@
 # vllm/vllm-openai:v0.11.0-x86_64
 # lmcache/vllm-openai:v0.3.8
 # lmcache/vllm-openai:v0.3.7
-lmsysorg/sglang:v0.5.5.post1-cu129-amd64
+# lmsysorg/sglang:v0.5.5.post1-cu129-amd64
+lmsysorg/sglang:v0.5.5.post3-cu129-amd64
 # aibrix/kuberay-operator:v1.2.1-patch-20250726
 # aibrix/runtime:bda162d814f96b69ec08f6dafe428f1d97cabbf2
 # aibrix/metadata-service:bda162d814f96b69ec08f6dafe428f1d97cabbf2
