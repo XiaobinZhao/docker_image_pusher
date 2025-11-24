@@ -7,7 +7,7 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64 lmsysorg/sglang:v0.5.5.post3-cu129-arm64
 #nvcr.io/nvidia/tritonserver:25.03-trtllm-python-py3
 #malithgeodd/tensorrt-llm:0.18.0
 # vllm main latest commit
@@ -51,7 +51,7 @@
 # lmcache/vllm-openai:v0.3.8
 # lmcache/vllm-openai:v0.3.7
 # lmsysorg/sglang:v0.5.5.post1-cu129-amd64
-lmsysorg/sglang:v0.5.5.post3-cu129-amd64
+# lmsysorg/sglang:v0.5.5.post3-cu129-amd64
 # aibrix/kuberay-operator:v1.2.1-patch-20250726
 # aibrix/runtime:bda162d814f96b69ec08f6dafe428f1d97cabbf2
 # aibrix/metadata-service:bda162d814f96b69ec08f6dafe428f1d97cabbf2
