@@ -9,7 +9,9 @@
 #支持指定架构
 # --platform=linux/arm64 lmsysorg/sglang:v0.5.5.post3-cu129-arm64
 # --platform=linux/arm64 nvcr.io/nvidia/tensorrt-llm/devel:1.2.0rc4
-vllm/vllm-openai:v0.11.2
+# vllm/vllm-openai:v0.11.2
+n8nio/n8n:1.121.3
+infiniflow/ragflow:v0.22.1
 #nvcr.io/nvidia/tritonserver:25.03-trtllm-python-py3
 #malithgeodd/tensorrt-llm:0.18.0
 # vllm main latest commit
