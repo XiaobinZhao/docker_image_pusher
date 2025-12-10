@@ -22,7 +22,8 @@
 # lmsysorg/sglang:dev
 # lmsysorg/sglang:blackwell
 # lmsysorg/sglang:v0.5.6-cu129-amd64
-lmsysorg/sglang:v0.5.6.post1
+# lmsysorg/sglang:v0.5.6.post1
+vllm/vllm-openai:v0.12.0-x86_64
 # vllm 0526拉取，0.9的预发布版本
 # public.ecr.aws/q9t5s3a7/vllm-ci-postmerge-repo:4bbfc36b1645ffb59b7da0a4104d84983f829f6a
 # sushiqian/tensorrt-llm:0.20.0rc2
