@@ -1,3 +1,4 @@
+cr.kgateway.dev/kgateway-dev/kgateway:v2.1.1
 # nginx
 # ollama/ollama:0.12.3
 # yusiwen/llama.cpp:b4735-cuda
