@@ -1,4 +1,7 @@
-cr.kgateway.dev/kgateway-dev/kgateway:v2.1.1
+ghcr.io/llm-d/llm-d-inference-scheduler:0.4.0
+ghcr.io/llm-d/llm-d-routing-sidecar:v0.4.0-rc.1
+ghcr.io/llm-d/llm-d-cuda:v0.4.0
+# cr.kgateway.dev/kgateway-dev/kgateway:v2.1.1
 # nginx
 # ollama/ollama:0.12.3
 # yusiwen/llama.cpp:b4735-cuda
@@ -27,7 +30,7 @@ cr.kgateway.dev/kgateway-dev/kgateway:v2.1.1
 # lmsysorg/sglang:nightly-dev-20251211-b6523a4f
 # lmsysorg/sglang:nightly-dev-20251219-e72b02db
 # vllm/vllm-openai:v0.13.0
-lmsysorg/sglang:nightly-dev-20251222-0bf95e6d
+# lmsysorg/sglang:nightly-dev-20251222-0bf95e6d
 #vllm/vllm-openai:v0.12.0-x86_64
 # vllm/vllm-openai:nightly-434ac76a7c2f2eb6aac80bb3b73cf856e1bba0e6
 # vllm 0526拉取，0.9的预发布版本
