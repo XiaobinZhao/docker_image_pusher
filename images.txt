@@ -1,6 +1,7 @@
-ghcr.io/llm-d/llm-d-inference-scheduler:v0.4.0
-ghcr.io/llm-d/llm-d-routing-sidecar:v0.4.0-rc.1
-ghcr.io/llm-d/llm-d-cuda:v0.4.0
+#ghcr.io/llm-d/llm-d-inference-scheduler:v0.4.0
+#ghcr.io/llm-d/llm-d-routing-sidecar:v0.4.0-rc.1
+#ghcr.io/llm-d/llm-d-cuda:v0.4.0
+ghcr.io/kgateway-dev/envoy-wrapper:v2.1.1
 # cr.kgateway.dev/kgateway-dev/kgateway:v2.1.1
 # nginx
 # ollama/ollama:0.12.3
