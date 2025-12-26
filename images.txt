@@ -1,4 +1,5 @@
-lmsysorg/sglang:nightly-dev-20251225-ecd2d09a
+# lmsysorg/sglang:nightly-dev-20251225-ecd2d09a
+lmsysorg/sglang:nightly-dev-20251226-48051181
 # ghcr.io/llm-d/llm-d-inference-scheduler:v0.4.0
 # ghcr.io/llm-d/llm-d-routing-sidecar:v0.4.0-rc.1
 # ghcr.io/llm-d/llm-d-cuda:v0.4.0
