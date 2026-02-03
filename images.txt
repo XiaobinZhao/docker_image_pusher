@@ -1,4 +1,5 @@
-1panel/openclaw:2026.2.1
+# 1panel/openclaw:2026.2.1
+jiulingyun803/openclaw-cn:v2026.2.3
 # lmsysorg/sglang:nightly-dev-20251225-ecd2d09a
 # lmsysorg/sglang:nightly-dev-20251226-48051181
 # lmsysorg/sglang:v0.5.7
