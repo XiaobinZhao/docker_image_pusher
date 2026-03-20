@@ -8,7 +8,9 @@
 # lmsysorg/sglang:v0.5.9-cu130
 # lmsysorg/sglang:nightly-dev-cu13-20260316-d852f26c
 # lmsysorg/sgl-model-gateway:v0.3.2
-vllm/vllm-openai:v0.17.1-cu130
+# vllm/vllm-openai:v0.17.1-cu130
+prom/prometheus:main-distroless
+grafana/grafana:12.4
 # unclecode/crawl4ai:0.7.8
 # ghcr.io/llm-d/llm-d-inference-scheduler:v0.4.0
 # ghcr.io/llm-d/llm-d-routing-sidecar:v0.4.0-rc.1
