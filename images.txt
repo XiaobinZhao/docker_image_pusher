@@ -11,7 +11,9 @@
 # vllm/vllm-openai:v0.17.1-cu130
 # prom/prometheus:main-distroless
 # grafana/grafana:main-ubuntu
-lmsysorg/sglang:glm5-hopper
+# lmsysorg/sglang:glm5-hopper
+carlosedp/node_exporter:v0.17.0
+nvidia/dcgm-exporter:4.5.2-4.8.1-ubuntu22.04
 # unclecode/crawl4ai:0.7.8
 # ghcr.io/llm-d/llm-d-inference-scheduler:v0.4.0
 # ghcr.io/llm-d/llm-d-routing-sidecar:v0.4.0-rc.1
