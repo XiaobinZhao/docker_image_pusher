@@ -16,7 +16,9 @@
 # nvidia/dcgm-exporter:4.5.2-4.8.1-ubuntu22.04
 # ghcr.io/moirai-internal/genai-bench:0.0.3
 # lmsysorg/sglang:nightly-dev-cu13-20260326-7c7b2a8c
-lmsysorg/sglang:nightly-dev-20260329-3ab9afd6
+# lmsysorg/sglang:nightly-dev-20260329-3ab9afd6
+n8nio/n8n:2.13.4
+n8nio/runners:2.13.4
 # unclecode/crawl4ai:0.7.8
 # ghcr.io/llm-d/llm-d-inference-scheduler:v0.4.0
 # ghcr.io/llm-d/llm-d-routing-sidecar:v0.4.0-rc.1
