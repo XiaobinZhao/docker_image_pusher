@@ -18,7 +18,8 @@
 # lmsysorg/sglang:nightly-dev-cu13-20260326-7c7b2a8c
 # lmsysorg/sglang:nightly-dev-20260329-3ab9afd6
 # lmsysorg/sglang:nightly-dev-cu13-20260401-b6fe0cca
-vllm/vllm-openai:v0.18.1-cu130
+# vllm/vllm-openai:v0.18.1-cu130
+python:3.11.15
 # n8nio/n8n:2.13.4
 # n8nio/runners:2.13.4
 # unclecode/crawl4ai:0.7.8
