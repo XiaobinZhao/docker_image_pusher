@@ -21,8 +21,8 @@
 # vllm/vllm-openai:v0.18.1-cu130
 # python:3.11.15
 # lmsysorg/sglang:v0.5.10-cu130
-lmsysorg/sglang:nightly-dev-cu13-20260412-8da1cfb3 --platform=linux/arm64
-vllm/vllm-openai:v0.19.0-cu130-ubuntu2404 --platform=linux/arm64
+--platform=linux/arm64 lmsysorg/sglang:nightly-dev-cu13-20260412-8da1cfb3
+--platform=linux/arm64 vllm/vllm-openai:v0.19.0-cu130-ubuntu2404
 # n8nio/n8n:2.13.4
 # n8nio/runners:2.13.4
 # unclecode/crawl4ai:0.7.8
