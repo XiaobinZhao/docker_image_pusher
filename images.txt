@@ -21,7 +21,8 @@
 # vllm/vllm-openai:v0.18.1-cu130
 # python:3.11.15
 # lmsysorg/sglang:v0.5.10-cu130
-lmsysorg/sglang:v0.5.9-cu129-amd64
+# lmsysorg/sglang:v0.5.9-cu129-amd64
+rolebasedgroup/rbgs-controller:v0.7.0-18d454d
 # --platform=linux/arm64 lmsysorg/sglang:nightly-dev-cu13-20260412-8da1cfb3
 # --platform=linux/arm64 vllm/vllm-openai:v0.19.0-cu130-ubuntu2404
 # n8nio/n8n:2.13.4
