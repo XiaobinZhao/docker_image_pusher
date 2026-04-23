@@ -30,7 +30,8 @@
 # vllm/vllm-openai:cu130-nightly-b47840019e61a3983c8144066a99c843d177947d
 # vllm/vllm-openai:cu130-nightly-4eafc729285e459a5fc96efd6f7b313b155cad48
 # lmsysorg/sglang:nightly-dev-cu13-20260422-1408d974
-vllm/vllm-openai:minimax27-x86_64-cu129
+# vllm/vllm-openai:minimax27-x86_64-cu129
+vllm/vllm-openai:hy3-preview-x86_64-cu129
 # unclecode/crawl4ai:0.7.8
 # ghcr.io/llm-d/llm-d-inference-scheduler:v0.4.0
 # ghcr.io/llm-d/llm-d-routing-sidecar:v0.4.0-rc.1
