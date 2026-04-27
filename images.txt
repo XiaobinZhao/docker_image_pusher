@@ -34,6 +34,7 @@
 # vllm/vllm-openai:hy3-preview-x86_64-cu129
 # vllm/vllm-openai:deepseekv4-cu130
 # vllm/vllm-openai:deepseekv4-cu129
+# lmsysorg/sglang:deepseek-v4-hopper
 lmsysorg/sglang:deepseek-v4-hopper
 # unclecode/crawl4ai:0.7.8
 # ghcr.io/llm-d/llm-d-inference-scheduler:v0.4.0
