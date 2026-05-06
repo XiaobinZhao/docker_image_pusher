@@ -18,6 +18,7 @@
 # lmsysorg/sglang:nightly-dev-cu13-20260326-7c7b2a8c
 # lmsysorg/sglang:nightly-dev-20260329-3ab9afd6
 # lmsysorg/sglang:nightly-dev-cu13-20260401-b6fe0cca
+lmsysorg/sglang:v0.5.11-cu130
 # vllm/vllm-openai:v0.18.1-cu130
 # python:3.11.15
 # lmsysorg/sglang:v0.5.10-cu130
@@ -37,11 +38,11 @@
 # lmsysorg/sglang:deepseek-v4-hopper
 # lmsysorg/sglang:deepseek-v4-hopper
 # vllm/vllm-openai:v0.20.0-x86_64-cu129-ubuntu2404
-nvcr.io/nvidia/ai-dynamo/vllm-runtime:1.1.0
-nvcr.io/nvidia/ai-dynamo/sglang-runtime:1.1.0
-nvcr.io/nvidia/ai-dynamo/kubernetes-operator:1.1.0
-nvcr.io/nvidia/ai-dynamo/dynamo-frontend:1.1.0
-nvcr.io/nvidia/ai-dynamo/snapshot-agent:1.1.0
+# nvcr.io/nvidia/ai-dynamo/vllm-runtime:1.1.0
+# nvcr.io/nvidia/ai-dynamo/sglang-runtime:1.1.0
+# nvcr.io/nvidia/ai-dynamo/kubernetes-operator:1.1.0
+# nvcr.io/nvidia/ai-dynamo/dynamo-frontend:1.1.0
+# nvcr.io/nvidia/ai-dynamo/snapshot-agent:1.1.0
 # bitnamilegacy/etcd:3.5.18-debian-12-r5
 # nats:2.10.21-alpine
 # natsio/nats-server-config-reloader:0.16.0
