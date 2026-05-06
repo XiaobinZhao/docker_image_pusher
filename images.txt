@@ -37,14 +37,15 @@
 # lmsysorg/sglang:deepseek-v4-hopper
 # lmsysorg/sglang:deepseek-v4-hopper
 # vllm/vllm-openai:v0.20.0-x86_64-cu129-ubuntu2404
-# nvcr.io/nvidia/ai-dynamo/vllm-runtime:1.0.2
-# nvcr.io/nvidia/ai-dynamo/sglang-runtime:1.0.2
-nvcr.io/nvidia/ai-dynamo/kubernetes-operator:1.0.2
-nvcr.io/nvidia/ai-dynamo/dynamo-frontend:1.0.2
-bitnamilegacy/etcd:3.5.18-debian-12-r5
-nats:2.10.21-alpine
-natsio/nats-server-config-reloader:0.16.0
-natsio/nats-box:0.14.5
+nvcr.io/nvidia/ai-dynamo/vllm-runtime:1.1.0
+nvcr.io/nvidia/ai-dynamo/sglang-runtime:1.1.0
+nvcr.io/nvidia/ai-dynamo/kubernetes-operator:1.1.0
+nvcr.io/nvidia/ai-dynamo/dynamo-frontend:1.1.0
+nvcr.io/nvidia/ai-dynamo/snapshot-agent:1.1.0
+# bitnamilegacy/etcd:3.5.18-debian-12-r5
+# nats:2.10.21-alpine
+# natsio/nats-server-config-reloader:0.16.0
+# natsio/nats-box:0.14.5
 # unclecode/crawl4ai:0.7.8
 # ghcr.io/llm-d/llm-d-inference-scheduler:v0.4.0
 # ghcr.io/llm-d/llm-d-routing-sidecar:v0.4.0-rc.1
