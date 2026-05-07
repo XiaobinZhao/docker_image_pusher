@@ -18,8 +18,14 @@
 # lmsysorg/sglang:nightly-dev-cu13-20260326-7c7b2a8c
 # lmsysorg/sglang:nightly-dev-20260329-3ab9afd6
 # lmsysorg/sglang:nightly-dev-cu13-20260401-b6fe0cca
-lmsysorg/sglang:v0.5.11-cu130
+# lmsysorg/sglang:v0.5.11-cu130
 # vllm/vllm-openai:v0.18.1-cu130
+# GPU Operator v26.3.1
+nvcr.io/nvidia/gpu-operator:v26.3.1
+registry.k8s.io/nfd/node-feature-discovery:v0.18.3
+nvcr.io/nvidia/k8s-device-plugin:v0.19.0
+nvcr.io/nvidia/cloud-native/k8s-driver-manager:v0.10.0
+nvcr.io/nvidia/cloud-native/k8s-cc-manager:v0.4.0
 # python:3.11.15
 # lmsysorg/sglang:v0.5.10-cu130
 # lmsysorg/sglang:v0.5.9-cu129-amd64
