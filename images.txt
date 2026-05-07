@@ -21,7 +21,8 @@
 # lmsysorg/sglang:v0.5.11-cu130
 # vllm/vllm-openai:v0.18.1-cu130
 # GPU Operator v24.9.2
-rancher/local-path-provisioner:v0.0.35
+# rancher/local-path-provisioner:v0.0.35
+busybox:latest
 # python:3.11.15
 # lmsysorg/sglang:v0.5.10-cu130
 # lmsysorg/sglang:v0.5.9-cu129-amd64
