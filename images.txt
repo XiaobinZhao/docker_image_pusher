@@ -1,3 +1,34 @@
+# ===== P0: Grove + KAI + Planner (14个) =====
+ghcr.io/ai-dynamo/grove/grove-operator:v0.1.0-alpha.7
+ghcr.io/ai-dynamo/grove/grove-initc:v0.1.0-alpha.7
+ghcr.io/kai-scheduler/kai-scheduler/operator:v0.13.4
+ghcr.io/kai-scheduler/kai-scheduler/podgrouper:v0.13.4
+ghcr.io/kai-scheduler/kai-scheduler/podgroupcontroller:v0.13.4
+ghcr.io/kai-scheduler/kai-scheduler/binder:v0.13.4
+ghcr.io/kai-scheduler/kai-scheduler/resourcereservation:v0.13.4
+ghcr.io/kai-scheduler/kai-scheduler/scheduler:v0.13.4
+ghcr.io/kai-scheduler/kai-scheduler/crd-upgrader:v0.13.4
+ghcr.io/kai-scheduler/kai-scheduler/admission:v0.13.4
+ghcr.io/kai-scheduler/kai-scheduler/queuecontroller:v0.13.4
+ghcr.io/kai-scheduler/kai-scheduler/nodescaleadjuster:v0.13.4
+ghcr.io/kai-scheduler/kai-scheduler/scalingpod:v0.13.4
+nvcr.io/nvidia/ai-dynamo/dynamo-planner:1.1.0
+
+# ===== P2: Prometheus - kube-prometheus-stack 84.5.0 (10个) =====
+quay.io/prometheus-operator/prometheus-operator:v0.90.1
+quay.io/prometheus-operator/prometheus-config-reloader:v0.90.1
+quay.io/prometheus-operator/admission-webhook:v0.90.1
+ghcr.io/jkroepke/kube-webhook-certgen:1.8.2
+quay.io/prometheus/prometheus:v3.11.3
+quay.io/prometheus/alertmanager:v0.32.1
+registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.18.0
+quay.io/prometheus/node-exporter:v1.11.1
+docker.io/grafana/grafana:13.0.1
+quay.io/kiwigrid/k8s-sidecar:2.7.1
+
+# ===== P2: RDMA (1个) =====
+ghcr.io/mellanox/k8s-rdma-shared-dev-plugin:v1.5.3
+
 # 1panel/openclaw:2026.2.1
 # jiulingyun803/openclaw-cn:v2026.2.3
 # ghcr.io/1186258278/openclaw-zh:2026.2.3-zh.2
@@ -22,7 +53,7 @@
 # vllm/vllm-openai:v0.18.1-cu130
 # GPU Operator v24.9.2
 # rancher/local-path-provisioner:v0.0.35
-busybox:latest
+# busybox:latest
 # python:3.11.15
 # lmsysorg/sglang:v0.5.10-cu130
 # lmsysorg/sglang:v0.5.9-cu129-amd64
