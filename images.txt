@@ -18,8 +18,8 @@
 # lmsysorg/sglang:nightly-dev-cu13-20260326-7c7b2a8c
 # lmsysorg/sglang:nightly-dev-20260329-3ab9afd6
 # lmsysorg/sglang:nightly-dev-cu13-20260401-b6fe0cca
-lmsysorg/sglang:v0.5.12-cu130
-# vllm/vllm-openai:v0.18.1-cu130
+# lmsysorg/sglang:v0.5.12-cu130
+vllm/vllm-openai:v0.21.0-cu130
 # GPU Operator v24.9.2
 # rancher/local-path-provisioner:v0.0.35
 # busybox:latest
