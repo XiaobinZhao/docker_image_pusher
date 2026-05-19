@@ -19,7 +19,7 @@
 # lmsysorg/sglang:nightly-dev-20260329-3ab9afd6
 # lmsysorg/sglang:nightly-dev-cu13-20260401-b6fe0cca
 # lmsysorg/sglang:v0.5.12-cu130
-vllm/vllm-openai:v0.21.0-cu130
+vllm/vllm-openai:v0.21.0-x86_64-cu129-ubuntu2404
 # GPU Operator v24.9.2
 # rancher/local-path-provisioner:v0.0.35
 # busybox:latest
