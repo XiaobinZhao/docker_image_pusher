@@ -23,7 +23,8 @@
 # vllm/vllm-openai:v0.21.0-x86_64
 # vllm/vllm-router:nightly-20260519-e667ebb
 # vllm/vllm-openai:v0.22.0-x86_64-ubuntu2404
-node:18-alpine
+# node:18-alpine
+infiniflow/ragflow:v0.25.6
 # GPU Operator v24.9.2
 # rancher/local-path-provisioner:v0.0.35
 # busybox:latest
