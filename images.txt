@@ -26,7 +26,8 @@
 # node:18-alpine
 # infiniflow/ragflow:v0.25.6
 # pgsty/minio:RELEASE.2026-03-25T00-00-00Z
-vllm/vllm-openai:v0.22.0-x86_64-cu129-ubuntu2404
+vllm/vllm-openai:v0.22.1-x86_64-cu129-ubuntu2404
+vllm/vllm-openai:v0.22.1-x86_64-ubuntu2404
 # GPU Operator v24.9.2
 # rancher/local-path-provisioner:v0.0.35
 # busybox:latest
