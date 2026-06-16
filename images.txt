@@ -30,7 +30,12 @@
 # vllm/vllm-openai:v0.22.1-x86_64-ubuntu2404
 # lmsysorg/sglang:v0.5.13-cu130
 # vllm/vllm-openai:v0.23.0-x86_64
-rachelos/we-mp-rss:latest
+# rachelos/we-mp-rss:latest
+prom/alertmanager:v0.28.1
+grafana/grafana:11.6.0
+prom/node-exporter:v1.9.0
+prom/blackbox-exporter:v0.26.0
+
 # GPU Operator v24.9.2
 # rancher/local-path-provisioner:v0.0.35
 # busybox:latest
