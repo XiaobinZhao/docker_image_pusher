@@ -38,7 +38,8 @@
 # lmcache/vllm-openai:v0.4.7-cu129
 # vllm/vllm-openai:glm52-x86_64-cu130
 # jaegertracing/all-in-one:1.76.0
-hyperdx/hyperdx-all-in-one:2.28.0
+# hyperdx/hyperdx-all-in-one:2.28.0
+lmsysorg/sglang:v0.5.14-cu130
 # GPU Operator v24.9.2
 # rancher/local-path-provisioner:v0.0.35
 # busybox:latest
