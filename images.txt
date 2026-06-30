@@ -19,8 +19,9 @@
 # lmsysorg/sglang:nightly-dev-20260329-3ab9afd6
 # lmsysorg/sglang:nightly-dev-cu13-20260401-b6fe0cca
 # lmsysorg/sglang:v0.5.12-cu130
-lmsysorg/sglang:dev-cu13-minimax-m3
-vllm/vllm-openai:vllm-minimax-m3-perf-x86_64-13.0.1-8b00f41
+# lmsysorg/sglang:dev-cu13-minimax-m3
+# vllm/vllm-openai:vllm-minimax-m3-perf-x86_64-13.0.1-8b00f41
+vllm/vllm-openai:v0.24.0-x86_64-ubuntu2404
 # vllm/vllm-openai:v0.21.0-x86_64-cu129-ubuntu2404
 # vllm/vllm-openai:v0.21.0-x86_64
 # vllm/vllm-router:nightly-20260519-e667ebb
