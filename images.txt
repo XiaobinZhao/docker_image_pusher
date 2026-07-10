@@ -1,5 +1,5 @@
-# SWE-bench Pro Docker images (batch 20260710_094215)
+# SWE-bench Pro Docker images (batch 20260710_094225)
 # Source: jefzda/sweap-images
 # Batch: 1 images
 
-jefzda/sweap-images:flipt-io.flipt-flipt-io__flipt-b433bd05ce405837804693bebd5f4b88d87133c8
+jefzda/sweap-images:flipt-io.flipt-flipt-io__flipt-b4bb5e13006a729bc0eed8fe6ea18cff54acdacb
