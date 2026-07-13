@@ -2,4 +2,5 @@
 # Source: jefzda/sweap-images
 # Batch: 1 images
 
-jefzda/sweap-images:flipt-io.flipt-flipt-io__flipt-b6cef5cdc0daff3ee99e5974ed60a1dc6b4b0d67
+vllm/vllm-openai:v0.25.0-x86_64-ubuntu2404
+lmsysorg/sglang:v0.5.15-cu130
