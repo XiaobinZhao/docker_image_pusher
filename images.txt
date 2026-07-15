@@ -6,5 +6,5 @@
 # lmsysorg/sglang:v0.5.15-cu130
 # n8nio/n8n:2.29.10
 # n8nio/runners:2.29.10
-lmcache/vllm-openai:v0.5.1-cu129
+# lmcache/vllm-openai:v0.5.1-cu129
 lmcache/vllm-openai:v0.5.1
