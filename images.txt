@@ -2,10 +2,5 @@
 # Source: jefzda/sweap-images
 # Batch: 1 images
 
-# vllm/vllm-openai:v0.25.0-x86_64-ubuntu2404
-# lmsysorg/sglang:v0.5.15-cu130
-# n8nio/n8n:2.29.10
-# n8nio/runners:2.29.10
-# lmcache/vllm-openai:v0.5.1-cu129
-# lmcache/vllm-openai:v0.5.1
-docker/dockerfile:1.7
+python:3.13-bookworm
+ghcr.io/astral-sh/uv:0.11.6
