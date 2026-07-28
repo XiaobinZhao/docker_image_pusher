@@ -1,6 +1,5 @@
 # SWE-bench Pro Docker images (batch 20260710_094535)
 # Source: jefzda/sweap-images
 # Batch: 1 images
-
-python:3.13-bookworm
-ghcr.io/astral-sh/uv:0.11.6
+vllm/vllm-openai:kimi-k3
+lmsysorg/sglang:kimi-k3
