@@ -1,5 +1,4 @@
 # SWE-bench Pro Docker images (batch 20260710_094535)
 # Source: jefzda/sweap-images
 # Batch: 1 images
-vllm/vllm-openai:kimi-k3
-lmsysorg/sglang:kimi-k3
+sckyzo/infiniband-exporter:2.0.0-20260817
