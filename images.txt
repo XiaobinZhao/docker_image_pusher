@@ -1,4 +1,4 @@
 # SWE-bench Pro Docker images (batch 20260710_094535)
 # Source: jefzda/sweap-images
 # Batch: 1 images
-vllm/vllm-openai:v0.27.1-cu129
+ghcr.io/drakosha/vllm-openai:pr46514-nightly-20260718
