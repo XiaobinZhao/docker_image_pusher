@@ -1,4 +1,4 @@
 # SWE-bench Pro Docker images (batch 20260710_094535)
 # Source: jefzda/sweap-images
 # Batch: 1 images
-sckyzo/infiniband-exporter:2.0.0-20260817
+vllm/vllm-openai:v0.27.1-cu129
