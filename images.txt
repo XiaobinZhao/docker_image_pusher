@@ -1,4 +1,4 @@
 # SWE-bench Pro Docker images (batch 20260710_094535)
 # Source: jefzda/sweap-images
 # Batch: 1 images
-vllm/vllm-openai:glm53-flash
+lmsysorg/sglang:nightly-dev-20260901-07c8f729
