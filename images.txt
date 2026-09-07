@@ -1,4 +1,4 @@
 # SWE-bench Pro Docker images (batch 20260710_094535)
 # Source: jefzda/sweap-images
 # Batch: 1 images
-lmsysorg/sglang:nightly-dev-20260901-07c8f729
+lmsysorg/sglang:v0.5.19-cu130
