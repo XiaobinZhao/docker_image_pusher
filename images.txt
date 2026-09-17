@@ -1,6 +1,53 @@
-# SWE-bench Pro Docker images (batch 20260710_094535)
-# Source: jefzda/sweap-images
-# Batch: 1 images
-# vllm/vllm-openai:nightly-9ea8f3ffc354901b740f0b31988900897b7221d7
-vllm/vllm-openai:v0.29.0
-vllm/vllm-openai:glm53-flash
+# SWE-bench Verified Mini Agentic eval images (batch 20260917)
+# Source: swebench/sweb.eval.x86_64.* (Docker Hub)
+# Batch: 50 images, target: swe_bench_verified_mini_agentic
+swebench/sweb.eval.x86_64.django_1776_django-11790:latest
+swebench/sweb.eval.x86_64.django_1776_django-11815:latest
+swebench/sweb.eval.x86_64.django_1776_django-11848:latest
+swebench/sweb.eval.x86_64.django_1776_django-11880:latest
+swebench/sweb.eval.x86_64.django_1776_django-11885:latest
+swebench/sweb.eval.x86_64.django_1776_django-11951:latest
+swebench/sweb.eval.x86_64.django_1776_django-11964:latest
+swebench/sweb.eval.x86_64.django_1776_django-11999:latest
+swebench/sweb.eval.x86_64.django_1776_django-12039:latest
+swebench/sweb.eval.x86_64.django_1776_django-12050:latest
+swebench/sweb.eval.x86_64.django_1776_django-12143:latest
+swebench/sweb.eval.x86_64.django_1776_django-12155:latest
+swebench/sweb.eval.x86_64.django_1776_django-12193:latest
+swebench/sweb.eval.x86_64.django_1776_django-12209:latest
+swebench/sweb.eval.x86_64.django_1776_django-12262:latest
+swebench/sweb.eval.x86_64.django_1776_django-12273:latest
+swebench/sweb.eval.x86_64.django_1776_django-12276:latest
+swebench/sweb.eval.x86_64.django_1776_django-12304:latest
+swebench/sweb.eval.x86_64.django_1776_django-12308:latest
+swebench/sweb.eval.x86_64.django_1776_django-12325:latest
+swebench/sweb.eval.x86_64.django_1776_django-12406:latest
+swebench/sweb.eval.x86_64.django_1776_django-12708:latest
+swebench/sweb.eval.x86_64.django_1776_django-12713:latest
+swebench/sweb.eval.x86_64.django_1776_django-12774:latest
+swebench/sweb.eval.x86_64.django_1776_django-9296:latest
+swebench/sweb.eval.x86_64.sphinx-doc_1776_sphinx-10323:latest
+swebench/sweb.eval.x86_64.sphinx-doc_1776_sphinx-10435:latest
+swebench/sweb.eval.x86_64.sphinx-doc_1776_sphinx-10466:latest
+swebench/sweb.eval.x86_64.sphinx-doc_1776_sphinx-10673:latest
+swebench/sweb.eval.x86_64.sphinx-doc_1776_sphinx-11510:latest
+swebench/sweb.eval.x86_64.sphinx-doc_1776_sphinx-7590:latest
+swebench/sweb.eval.x86_64.sphinx-doc_1776_sphinx-7748:latest
+swebench/sweb.eval.x86_64.sphinx-doc_1776_sphinx-7757:latest
+swebench/sweb.eval.x86_64.sphinx-doc_1776_sphinx-7985:latest
+swebench/sweb.eval.x86_64.sphinx-doc_1776_sphinx-8035:latest
+swebench/sweb.eval.x86_64.sphinx-doc_1776_sphinx-8056:latest
+swebench/sweb.eval.x86_64.sphinx-doc_1776_sphinx-8265:latest
+swebench/sweb.eval.x86_64.sphinx-doc_1776_sphinx-8269:latest
+swebench/sweb.eval.x86_64.sphinx-doc_1776_sphinx-8475:latest
+swebench/sweb.eval.x86_64.sphinx-doc_1776_sphinx-8548:latest
+swebench/sweb.eval.x86_64.sphinx-doc_1776_sphinx-8551:latest
+swebench/sweb.eval.x86_64.sphinx-doc_1776_sphinx-8638:latest
+swebench/sweb.eval.x86_64.sphinx-doc_1776_sphinx-8721:latest
+swebench/sweb.eval.x86_64.sphinx-doc_1776_sphinx-9229:latest
+swebench/sweb.eval.x86_64.sphinx-doc_1776_sphinx-9230:latest
+swebench/sweb.eval.x86_64.sphinx-doc_1776_sphinx-9281:latest
+swebench/sweb.eval.x86_64.sphinx-doc_1776_sphinx-9320:latest
+swebench/sweb.eval.x86_64.sphinx-doc_1776_sphinx-9367:latest
+swebench/sweb.eval.x86_64.sphinx-doc_1776_sphinx-9461:latest
+swebench/sweb.eval.x86_64.sphinx-doc_1776_sphinx-9698:latest
