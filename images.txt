@@ -2,4 +2,4 @@
 # Source: jefzda/sweap-images
 # Batch: 1 images
 # vllm/vllm-openai:nightly-9ea8f3ffc354901b740f0b31988900897b7221d7
-lmsysorg/sglang:v0.5.20
+vllm/vllm-router:nightly-20260919-f962dfc
