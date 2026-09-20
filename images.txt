@@ -2,6 +2,5 @@
 # Source: jefzda/sweap-images
 # Batch: 1 images
 # vllm/vllm-openai:nightly-9ea8f3ffc354901b740f0b31988900897b7221d7
-ghcr.io/llm-d/llm-d-router-endpoint-picker:main
-ghcr.io/llm-d/llm-d-router-disagg-sidecar:main
-docker.io/envoyproxy/envoy:distroless-v1.33.2
+lmsysorg/sglang:hy4-preview
+vllm/vllm-openai:hy4-preview
