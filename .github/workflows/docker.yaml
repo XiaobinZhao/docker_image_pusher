@@ -117,7 +117,13 @@ jobs:
             if echo "$line" | grep -q '^build:'; then
                 continue
             fi
-        
+            # 阿里云源镜像：已在阿里云（由外部 workflow 构建推送），无需搬运；
+            # GitHub 海外 runner pull 阿里云 ACR 个人版会 404。仅登记供同步工具解析。
+            if echo "$line" | grep -q "^$ALIYUN_REGISTRY/"; then
+                echo "skip (already in Aliyun): $line"
+                continue
+            fi
+
             echo "docker pull $line"
             docker pull $line
             platform=$(echo "$line" | awk -F'--platform[ =]' '{if (NF>1) print $2}' | awk '{print $1}')
