@@ -6,7 +6,7 @@
 # vllm/vllm-openai:cu129-nightly-ac68c3087215e0a4f3cdfa218508c6aada57235d
 # vllm/vllm-router:nightly
 # sglang gateway PD router decode-early-error fix (built by XiaobinZhao/sglang fork workflow)
-registry.cn-hangzhou.aliyuncs.com/xiaobin_docker/sgl-model-gateway:v0.5.21-pd-decode-early-fix-gh
+# registry.cn-hangzhou.aliyuncs.com/xiaobin_docker/sgl-model-gateway:v0.5.21-pd-decode-early-fix-gh
 # llm-d-router v1.0.0 (EPP + disagg sidecar)
 ghcr.io/llm-d/llm-d-router-endpoint-picker:v1.0.0
 ghcr.io/llm-d/llm-d-router-disagg-sidecar:v1.0.0
