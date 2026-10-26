@@ -11,5 +11,5 @@
 # ghcr.io/ll m-d/llm-d-router -disagg-sidecar:v1.0.0  
 # v llm nightly 77154ca6 (2026-10-14, cu129, cont ains fp8-sparse #59246 + a2a-dcp #61285 + pcp -dcp #56157)
 # vllm/vllm-openai:cu129-nightly -77154ca6116ae34cbfe314beef1016bde9b63989
-lms ysorg/sglang:dev-minimax-m31-flash
+lmsysorg/sglang:dev-minimax-m31-flash
  
