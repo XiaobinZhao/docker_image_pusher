@@ -12,4 +12,4 @@
 # v llm nightly 77154ca6 (2026-10-14, cu129, cont ains fp8-sparse #59246 + a2a-dcp #61285 + pcp -dcp #56157)
 # vllm/vllm-openai:cu129-nightly -77154ca6116ae34cbfe314beef1016bde9b63989
 # lmsysorg/sglang:dev-minimax-m31-flash
-vllm/vllm:v0.34.0
+# vllm/vllm:v0.34.0  (已转存: registry.cn-hangzhou.aliyuncs.com/xiaobin_docker/vllm:v0.34.0 / 10.24.10.61:20405/vllm:v0.34.0, 2026-11-23 同步完成)
